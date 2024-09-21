@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eluyi.github.io/mjG/sitemap.mjG.gz
